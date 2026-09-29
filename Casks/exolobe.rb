@@ -1,6 +1,6 @@
 cask "exolobe" do
-  version "0.3.1"
-  sha256 "f37c57e4bd433f1c76a953a40987d7fd8422a31d74952ecd33628c9e68d110db"
+  version "0.3.2"
+  sha256 "43458c3ba5d6fd82536c2503e52680e454912cab5a10e69212c115809ca49888"
 
   url "https://github.com/eddybean/exolobe/releases/download/v#{version}/exolobe-#{version}-arm64.dmg"
   name "Exolobe"
